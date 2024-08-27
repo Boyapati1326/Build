@@ -1,0 +1,389 @@
+[
+    {
+        "ItemId": "1575266",
+        "Description": "TRUE MESH CHAIR",
+        "ItemQuantity": 1,
+        "SellPrice": 129.99,
+        "ExtSellPrice": 129.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 45.50
+    },
+    {
+        "ItemId": "1788650",
+        "Description": "WOODG SEED GLOBE",
+        "ItemQuantity": 1,
+        "SellPrice": 24.99,
+        "ExtSellPrice": 24.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 8.75
+    },
+    {
+        "ItemId": "1620288",
+        "Description": "CASCADE PR 36 R 2 PK",
+        "ItemQuantity": 1,
+        "SellPrice": 29.99,
+        "ExtSellPrice": 29.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 10.50
+    },
+    {
+        "ItemId": "1497586",
+        "Description": "VAUGHAN KNIFE SET 3",
+        "ItemQuantity": 1,
+        "SellPrice": 27.99,
+        "ExtSellPrice": 27.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 9.80
+    },
+    {
+        "ItemId": "1893501",
+        "Description": "CUTTING BOARD",
+        "ItemQuantity": 1,
+        "SellPrice": 24.99,
+        "ExtSellPrice": 24.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 8.75
+    },
+    {
+        "ItemId": "1906946",
+        "Description": "MICROFIBRE FOORN",
+        "ItemQuantity": 1,
+        "SellPrice": 19.99,
+        "ExtSellPrice": 19.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 7.00
+    },
+    {
+        "ItemId": "1706828",
+        "Description": "KIRKLAND GOLDEN CHICKEN",
+        "ItemQuantity": 1,
+        "SellPrice": 29.99,
+        "ExtSellPrice": 29.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 10.50
+    },
+    {
+        "ItemId": "1209965",
+        "Description": "HONYA DEN SET 2",
+        "ItemQuantity": 1,
+        "SellPrice": 24.99,
+        "ExtSellPrice": 24.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 8.75
+    },
+    {
+        "ItemId": "1888467",
+        "Description": "TROPICAL ARMS SL",
+        "ItemQuantity": 1,
+        "SellPrice": 129.99,
+        "ExtSellPrice": 129.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 45.50
+    },
+    {
+        "ItemId": "1981184",
+        "Description": "CHARACTERS 2PK S",
+        "ItemQuantity": 1,
+        "SellPrice": 149.99,
+        "ExtSellPrice": 149.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 52.50
+    },
+    {
+        "ItemId": "2101014",
+        "Description": "TOWER FAN BL",
+        "ItemQuantity": 1,
+        "SellPrice": 49.99,
+        "ExtSellPrice": 49.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 17.50
+    },
+    {
+        "ItemId": "8078435",
+        "Description": "TWILDE MARKET UMBR",
+        "ItemQuantity": 1,
+        "SellPrice": 129.99,
+        "ExtSellPrice": 129.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 45.50
+    },
+    {
+        "ItemId": "3971041",
+        "Description": "ES LUMB SUPPORT",
+        "ItemQuantity": 1,
+        "SellPrice": 149.99,
+        "ExtSellPrice": 149.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 52.50
+    },
+    {
+        "ItemId": "6219067",
+        "Description": "PROJECTION ALARM",
+        "ItemQuantity": 1,
+        "SellPrice": 39.99,
+        "ExtSellPrice": 39.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 14.00
+    },
+    {
+        "ItemId": "1477674",
+        "Description": "GOURMIA AIR FRYER 7Q",
+        "ItemQuantity": 1,
+        "SellPrice": 129.99,
+        "ExtSellPrice": 129.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 45.50
+    },
+    {
+        "ItemId": "1839406",
+        "Description": "DASH WAFFLE MAKER",
+        "ItemQuantity": 1,
+        "SellPrice": 29.99,
+        "ExtSellPrice": 29.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 10.50
+    },
+    {
+        "ItemId": "1096016",
+        "Description": "ST PATRIC CONES 12/1",
+        "ItemQuantity": 1,
+        "SellPrice": 13.99,
+        "ExtSellPrice": 13.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 4.90
+    },
+    {
+        "ItemId": "1549057",
+        "Description": "COLUMBIA OUTDOOR LBR",
+        "ItemQuantity": 1,
+        "SellPrice": 129.99,
+        "ExtSellPrice": 129.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 45.50
+    },
+    {
+        "ItemId": "7278671",
+        "Description": "FENCE ENERBARK 2400F PK",
+        "ItemQuantity": 1,
+        "SellPrice": 32.99,
+        "ExtSellPrice": 32.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 11.55
+    },
+    {
+        "ItemId": "1578610",
+        "Description": "HAMPTON BBQUIL",
+        "ItemQuantity": 1,
+        "SellPrice": 149.99,
+        "ExtSellPrice": 149.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 52.50
+    },
+    {
+        "ItemId": "1763412",
+        "Description": "JH STEWART SIB QUI",
+        "ItemQuantity": 1,
+        "SellPrice": 42.99,
+        "ExtSellPrice": 42.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 15.05
+    },
+    {
+        "ItemId": "1897978",
+        "Description": "NATURAL WEAVING KHA",
+        "ItemQuantity": 1,
+        "SellPrice": 29.99,
+        "ExtSellPrice": 29.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 10.50
+    },
+    {
+        "ItemId": "1897667",
+        "Description": "GRANDRIDGE OVMODERN",
+        "ItemQuantity": 1,
+        "SellPrice": 49.99,
+        "ExtSellPrice": 49.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 17.50
+    },
+    {
+        "ItemId": "1772573",
+        "Description": "SPALDING SDK BALL",
+        "ItemQuantity": 1,
+        "SellPrice": 34.99,
+        "ExtSellPrice": 34.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 12.25
+    },
+    {
+        "ItemId": "1781347",
+        "Description": "HOVEBORDER RUN C",
+        "ItemQuantity": 1,
+        "SellPrice": 34.99,
+        "ExtSellPrice": 34.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 12.25
+    },
+    {
+        "ItemId": "1735633",
+        "Description": "LIVING OUDR RUG",
+        "ItemQuantity": 1,
+        "SellPrice": 129.99,
+        "ExtSellPrice": 129.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 45.50
+    },
+    {
+        "ItemId": "1784341",
+        "Description": "SHADY WOOD COLOUR",
+        "ItemQuantity": 1,
+        "SellPrice": 24.99,
+        "ExtSellPrice": 24.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 8.75
+    },
+    {
+        "ItemId": "1098220",
+        "Description": "COMFOSOFT GRAMPON PIL",
+        "ItemQuantity": 1,
+        "SellPrice": 29.99,
+        "ExtSellPrice": 29.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 10.50
+    },
+    {
+        "ItemId": "1079667",
+        "Description": "NOMADIC ATOMIC CROC PITV",
+        "ItemQuantity": 1,
+        "SellPrice": 119.99,
+        "ExtSellPrice": 119.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 42.00
+    },
+    {
+        "ItemId": "1079774",
+        "Description": "VORTEX LARGE HOODIE",
+        "ItemQuantity": 1,
+        "SellPrice": 119.99,
+        "ExtSellPrice": 119.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 42.00
+    },
+    {
+        "ItemId": "6216473",
+        "Description": "CORRECT PED LBR",
+        "ItemQuantity": 1,
+        "SellPrice": 149.99,
+        "ExtSellPrice": 149.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 52.50
+    },
+    {
+        "ItemId": "1937410",
+        "Description": "BYSOL ADVANCED 2 SP",
+        "ItemQuantity": 1,
+        "SellPrice": 59.99,
+        "ExtSellPrice": 59.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 21.00
+    },
+    {
+        "ItemId": "1077334",
+        "Description": "DETONATE HAT SNAP",
+        "ItemQuantity": 1,
+        "SellPrice": 29.99,
+        "ExtSellPrice": 29.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 10.50
+    },
+    {
+        "ItemId": "6216471",
+        "Description": "KATE SPADE BLANKET",
+        "ItemQuantity": 1,
+        "SellPrice": 29.99,
+        "ExtSellPrice": 29.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 10.50
+    },
+    {
+        "ItemId": "1775032",
+        "Description": "FARSHON BB WALL 18X35",
+        "ItemQuantity": 1,
+        "SellPrice": 32.99,
+        "ExtSellPrice": 32.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 11.55
+    },
+    {
+        "ItemId": "7770750",
+        "Description": "MINI COUTURE A B C",
+        "ItemQuantity": 1,
+        "SellPrice": 29.99,
+        "ExtSellPrice": 29.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 10.50
+    },
+    {
+        "ItemId": "7770838",
+        "Description": "ROUGH CUT PAPER",
+        "ItemQuantity": 1,
+        "SellPrice": 19.99,
+        "ExtSellPrice": 19.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 7.00
+    },
+    {
+        "ItemId": "7771108",
+        "Description": "BRITISH GIFT CARD",
+        "ItemQuantity": 1,
+        "SellPrice": 19.99,
+        "ExtSellPrice": 19.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 7.00
+    },
+    {
+        "ItemId": "7770550",
+        "Description": "SPARKLING TREE 24X50X3",
+        "ItemQuantity": 1,
+        "SellPrice": 21.49,
+        "ExtSellPrice": 21.49,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 7.52
+    },
+    {
+        "ItemId": "7770490",
+        "Description": "SILVER LINING CAP",
+        "ItemQuantity": 1,
+        "SellPrice": 32.99,
+        "ExtSellPrice": 32.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 11.55
+    },
+    {
+        "ItemId": "7770247",
+        "Description": "SEPTOR 21",
+        "ItemQuantity": 1,
+        "SellPrice": 29.99,
+        "ExtSellPrice": 29.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 10.50
+    },
+    {
+        "ItemId": "9000002",
+        "Description": "CATAPULT GAMING CHAIR",
+        "ItemQuantity": 1,
+        "SellPrice": 339.99,
+        "ExtSellPrice": 339.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 118.00
+    },
+    {
+        "ItemId": "1900011",
+        "Description": "TOSCANA SALISH 8'X11",
+        "ItemQuantity": 1,
+        "SellPrice": 399.99,
+        "ExtSellPrice": 399.99,
+        "SalvagePercentage": 35,
+        "SalvageAmount": 139.99
+    }
+]
